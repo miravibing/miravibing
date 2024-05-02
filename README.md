@@ -1,5 +1,6 @@
 <h1 align="center">Sup g, I'm Samira Anvarova</h1>
 <h3 align="center">Graphic designer | Software developer | Artist | Writer | Content creator | Musician</h3>
+<img src="https://i.pinimg.com/originals/59/d8/41/59d8410d52af6e9dbb290d5f4a654a0b.gif "  width="500" height="600">
 
 - 🔭 I’m currently working on [Design portfolio](In progress...)
 
