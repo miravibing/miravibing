@@ -1,7 +1,8 @@
-<h1 align="center">Sup g, I'm Samira Anvarova</h1>
+<img src="https://i.pinimg.com/564x/fb/dd/85/fbdd85235cb001e02af2f40eb756b32f.jpg" width="1000" height="200">
+<h1 align="center">👾 sup g, mira here! 👾</h1>
 <h3 align="center">Graphic designer | Software developer | Artist | Writer | Content creator | Musician</h3>
-<img src="https://i.pinimg.com/originals/59/d8/41/59d8410d52af6e9dbb290d5f4a654a0b.gif "  width="500" height="600">
 
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/07/60/8d/07608d3fc48e6d3ccdf6688ec1c0bacb.gif">
 - 🔭 I’m currently working on [Design portfolio](In progress...)
 
 - 🌱 I’m currently learning **Game development, Machine Learning, Cybersecurity, Animation**
