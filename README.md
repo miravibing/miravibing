@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Graphic design, Fine art**
 
-- 📫 How to reach me **samirabonu1@gmail.com**
+- 📫 How to reach me **miravibin@gmail.com**
 
 - ⚡ Fun fact **I listen to rock/metal and love sports!**
 
